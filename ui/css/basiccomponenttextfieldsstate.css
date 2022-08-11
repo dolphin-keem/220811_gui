@@ -1,0 +1,580 @@
+/* screen - basiccomponenttextfieldsstate */
+
+.basiccomponenttextfieldsstate {
+  background-color: var(--white);
+  height: 1185px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsstate .group-11-nRO1ga {
+  background-color: transparent;
+  height: 643px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.basiccomponenttextfieldsstate .web-sub_-title-nRO1ga {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsstate .web-title-area-nRO1ga {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsstate .web-tab-basic-component_-graph-nRO1ga {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsstate .x3rd-depth-YfBC7g {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsstate .tab-2uAx7B {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponenttextfieldsstate .text-fields-7uS4Qf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 63px;
+}
+
+.basiccomponenttextfieldsstate .auto-complete-text-f-7uS4Qf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 151px;
+}
+
+.basiccomponenttextfieldsstate .states-copy-7uS4Qf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 40px;
+}
+
+.basiccomponenttextfieldsstate .interaction-flow-7uS4Qf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 101px;
+}
+
+.basiccomponenttextfieldsstate .lnb-basic-component-nRO1ga {
+  background-color: transparent;
+  height: 1570px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .rectangle-ESte4K {
+  background-color: var(--concrete);
+  height: 1570px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .background-ESte4K {
+  background-color: var(--concrete);
+  height: 1529px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .rectangle-fDqowp {
+  background-color: var(--concrete);
+  height: 1529px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .line-ESte4K {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponenttextfieldsstate .home-net-ui-guideline-ESte4K {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.basiccomponenttextfieldsstate .stacked-group-ESte4K {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 154px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-title-common-4Ea12A {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents1dpeth_close-4Ea12A {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents1dpeth_close-omp13A {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents1dpeth_close-unE6Bh {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents1dpeth_open_selected-4Ea12A {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents2dpeth-4Ea12A {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents2dpeth-omp13A {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents2dpeth-unE6Bh {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents2dpeth-tLaCZ4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents2dpeth-2cx6AL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents2dpeth-Bj1k6v {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents2dpeth-Q7uAKx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents2dpeth-B8xKib {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents2dpeth-gxmsVT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents2dpeth-3l5VC1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents2dpeth-zvmag8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents2dpeth-pZxt4E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents2dpeth-LH3OgO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents2dpeth-H2rnl8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents1dpeth_close-tLaCZ4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents1dpeth_close-2cx6AL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents1dpeth_close-Bj1k6v {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .group-4Ea12A {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .empty-5DkvFQ {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .empty-U9zcIs {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .line-copy-5DkvFQ {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponenttextfieldsstate .web-index-title-reference-4Ea12A {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents1dpeth_close-Q7uAKx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents1dpeth_close-B8xKib {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents1dpeth_close-gxmsVT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents1dpeth_close-3l5VC1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .web-index-contents1dpeth_close-zvmag8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .group-omp13A {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .empty-lEvu4a {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .empty-SUqKqU {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .line-copy-lEvu4a {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponenttextfieldsstate .web-index-title-reference-omp13A {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.basiccomponenttextfieldsstate .webgnb-nRO1ga {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsstate .rectangle-xBHIs7 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsstate .background-xBHIs7 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsstate .index-xBHIs7 {
+  background-color: transparent;
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.basiccomponenttextfieldsstate .web-index-select-9pKqxt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.basiccomponenttextfieldsstate .web-index-unselect-9pKqxt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.basiccomponenttextfieldsstate .web-index-unelect_main-xBHIs7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basiccomponenttextfieldsstate .logo-52X9eA {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

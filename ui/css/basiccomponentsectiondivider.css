@@ -1,0 +1,522 @@
+/* screen - basiccomponentsectiondivider */
+
+.basiccomponentsectiondivider {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentsectiondivider .group-6-Tyvy9V {
+  background-color: transparent;
+  height: 224px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentsectiondivider .group-4-Tyvy9V {
+  background-color: transparent;
+  height: 409px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponentsectiondivider .web-sub_-title-Tyvy9V {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponentsectiondivider .web-title-area-Tyvy9V {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentsectiondivider .lnb-basic-component-Tyvy9V {
+  background-color: transparent;
+  height: 1570px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .rectangle-HyLR4v {
+  background-color: var(--concrete);
+  height: 1570px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .background-HyLR4v {
+  background-color: var(--concrete);
+  height: 1529px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .rectangle-EggiyD {
+  background-color: var(--concrete);
+  height: 1529px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .line-HyLR4v {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentsectiondivider .home-net-ui-guideline-HyLR4v {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.basiccomponentsectiondivider .stacked-group-HyLR4v {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 154px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-title-common-GZiMrW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-GZiMrW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-DpznH0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-0hfMTJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_open_selected-GZiMrW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-GZiMrW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-DpznH0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-0hfMTJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-lANfdw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-TlNbRJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-sMgNwb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-prhDVZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-oro99W {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-keuSAx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-3hBHhx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-P7Biut {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-eZLehE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-wimSXx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-Lox6a0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-lANfdw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-TlNbRJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-sMgNwb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .group-GZiMrW {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .empty-WQBhs6 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .empty-nlpjOc {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .line-copy-WQBhs6 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentsectiondivider .web-index-title-reference-GZiMrW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-prhDVZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-oro99W {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-keuSAx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-3hBHhx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-P7Biut {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .group-DpznH0 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .empty-5dx8xp {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .empty-zOPlkK {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .line-copy-5dx8xp {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentsectiondivider .web-index-title-reference-DpznH0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.basiccomponentsectiondivider .webgnb-Tyvy9V {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsectiondivider .rectangle-EJG2iW {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsectiondivider .background-EJG2iW {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsectiondivider .index-EJG2iW {
+  background-color: transparent;
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.basiccomponentsectiondivider .web-index-select-ogCHVT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.basiccomponentsectiondivider .web-index-unselect-ogCHVT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.basiccomponentsectiondivider .web-index-unelect_main-EJG2iW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basiccomponentsectiondivider .logo-zIoKyw {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

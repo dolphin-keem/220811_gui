@@ -1,0 +1,441 @@
+/* screen - basicinteractionscrollbar */
+
+.basicinteractionscrollbar {
+  background-color: var(--white);
+  height: 1384px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basicinteractionscrollbar .group-3-X8Bwaq {
+  background-color: transparent;
+  height: 892px;
+  left: 420px;
+  position: absolute;
+  top: 292px;
+  width: 1472px;
+}
+
+.basicinteractionscrollbar .web-sub_-title-X8Bwaq {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 234px;
+  width: 1600px;
+}
+
+.basicinteractionscrollbar .web-title-area-X8Bwaq {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basicinteractionscrollbar .lnb-basic-interaction-X8Bwaq {
+  background-color: transparent;
+  height: 1264px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .rectangle-TExsRU {
+  background-color: var(--concrete);
+  height: 1264px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .background-TExsRU {
+  background-color: var(--concrete);
+  height: 1223px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .stacked-group-TExsRU {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-title-common-G2xuni {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents1dpeth_close-G2xuni {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents1dpeth_close-3U5cFw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents1dpeth_close-vBNh5P {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents1dpeth_close-Ffq0Yt {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents1dpeth_open_selected-G2xuni {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents2dpeth-G2xuni {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents2dpeth-3U5cFw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents2dpeth-vBNh5P {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents2dpeth-Ffq0Yt {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents2dpeth-3rB5JN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents2dpeth-SG5wPK {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents2dpeth-copy-G2xuni {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents1dpeth_close-3rB5JN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents1dpeth_close-SG5wPK {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .group-G2xuni {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .empty-xvrmzx {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .line-copy-xvrmzx {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basicinteractionscrollbar .empty-JICdV5 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-title-reference-G2xuni {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.basicinteractionscrollbar .web-index-contents1dpeth_close-PXyGik {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents1dpeth_close-RPpZrA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents1dpeth_close-Ax5Sck {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents1dpeth_close-MARy7s {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-contents1dpeth_close-Je06vk {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .group-3U5cFw {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .empty-P2BQja {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .line-copy-P2BQja {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basicinteractionscrollbar .empty-ttkkGx {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basicinteractionscrollbar .web-index-title-reference-3U5cFw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.basicinteractionscrollbar .line-TExsRU {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basicinteractionscrollbar .home-net-ui-guideline-TExsRU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.basicinteractionscrollbar .webgnb-X8Bwaq {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basicinteractionscrollbar .rectangle-EARJAj {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basicinteractionscrollbar .background-EARJAj {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basicinteractionscrollbar .index-EARJAj {
+  background-color: transparent;
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.basicinteractionscrollbar .web-index-select-eMhDEW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.basicinteractionscrollbar .web-index-unselect-eMhDEW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.basicinteractionscrollbar .web-index-unelect_main-EARJAj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basicinteractionscrollbar .logo-GyV4h1 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

@@ -1,0 +1,589 @@
+/* screen - basiccomponentbuttontogglebutton */
+
+.basiccomponentbuttontogglebutton {
+  background-color: var(--white);
+  height: 1417px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentbuttontogglebutton .group-8-935i44 {
+  background-color: transparent;
+  height: 875px;
+  left: 417px;
+  position: absolute;
+  top: 342px;
+  width: 1406px;
+}
+
+.basiccomponentbuttontogglebutton .web-sub_-title-935i44 {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponentbuttontogglebutton .web-title-area-935i44 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentbuttontogglebutton .web-tab-basic-component_-button-935i44 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponentbuttontogglebutton .x3rd-depth-3XfZX7 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentbuttontogglebutton .tab-3XfZX7 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentbuttontogglebutton .button-MXQwl9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 43px;
+}
+
+.basiccomponentbuttontogglebutton .toggle-button-MXQwl9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.basiccomponentbuttontogglebutton .x2-buttons-MXQwl9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 60px;
+}
+
+.basiccomponentbuttontogglebutton .group-button-MXQwl9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 86px;
+}
+
+.basiccomponentbuttontogglebutton .bottom-buttons-MXQwl9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.basiccomponentbuttontogglebutton .lnb-basic-component-935i44 {
+  background-color: transparent;
+  height: 1570px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .rectangle-woxT63 {
+  background-color: var(--concrete);
+  height: 1570px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .background-woxT63 {
+  background-color: var(--concrete);
+  height: 1529px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .rectangle-G5ihB0 {
+  background-color: var(--concrete);
+  height: 1529px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .line-woxT63 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentbuttontogglebutton .home-net-ui-guideline-woxT63 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.basiccomponentbuttontogglebutton .stacked-group-woxT63 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 154px;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-title-common-a4VC8f {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents1dpeth_close-a4VC8f {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents1dpeth_close-zpQmWM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents1dpeth_close-u70Iwc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents1dpeth_open_selected-a4VC8f {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents2dpeth-a4VC8f {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents2dpeth-zpQmWM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents2dpeth-u70Iwc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents2dpeth-h9bqRD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents2dpeth-QTnHrt {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents2dpeth-JUlg9s {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents2dpeth-FsxzWT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents2dpeth-wqyd7S {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents2dpeth-KwxW8p {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents2dpeth-uDQCzb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents2dpeth-5PWx3f {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents2dpeth-1MeYEL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents2dpeth-Tr2mB9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents2dpeth-xcLOey {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents1dpeth_close-h9bqRD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents1dpeth_close-QTnHrt {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents1dpeth_close-JUlg9s {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .group-a4VC8f {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .empty-KhKbyg {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .empty-cf9hkI {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .line-copy-KhKbyg {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-title-reference-a4VC8f {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents1dpeth_close-FsxzWT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents1dpeth_close-wqyd7S {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents1dpeth_close-KwxW8p {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents1dpeth_close-uDQCzb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-contents1dpeth_close-5PWx3f {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .group-zpQmWM {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .empty-G8xijV {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .empty-BdFsjP {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .line-copy-G8xijV {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-title-reference-zpQmWM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.basiccomponentbuttontogglebutton .webgnb-935i44 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentbuttontogglebutton .rectangle-STw9t5 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentbuttontogglebutton .background-STw9t5 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentbuttontogglebutton .index-STw9t5 {
+  background-color: transparent;
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-select-NmxZxa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-unselect-NmxZxa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.basiccomponentbuttontogglebutton .web-index-unelect_main-STw9t5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basiccomponentbuttontogglebutton .logo-5554lV {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

@@ -1,0 +1,580 @@
+/* screen - basiccomponenttextfieldsinteractionflow */
+
+.basiccomponenttextfieldsinteractionflow {
+  background-color: var(--white);
+  height: 1365px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsinteractionflow .group-2-4Y2AJn {
+  background-color: transparent;
+  height: 823px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-sub_-title-4Y2AJn {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-title-area-4Y2AJn {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-tab-basic-component_-graph-4Y2AJn {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsinteractionflow .x3rd-depth-9MCN1M {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsinteractionflow .tab-usFM2k {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponenttextfieldsinteractionflow .text-fields-n69OQj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 63px;
+}
+
+.basiccomponenttextfieldsinteractionflow .auto-complete-text-f-n69OQj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 151px;
+}
+
+.basiccomponenttextfieldsinteractionflow .states-copy-n69OQj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 39px;
+}
+
+.basiccomponenttextfieldsinteractionflow .interaction-flow-n69OQj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 101px;
+}
+
+.basiccomponenttextfieldsinteractionflow .lnb-basic-component-4Y2AJn {
+  background-color: transparent;
+  height: 1570px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .rectangle-oxEfVo {
+  background-color: var(--concrete);
+  height: 1570px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .background-oxEfVo {
+  background-color: var(--concrete);
+  height: 1529px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .rectangle-EyMd95 {
+  background-color: var(--concrete);
+  height: 1529px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .line-oxEfVo {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponenttextfieldsinteractionflow .home-net-ui-guideline-oxEfVo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.basiccomponenttextfieldsinteractionflow .stacked-group-oxEfVo {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 154px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-title-common-0eHxur {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents1dpeth_close-0eHxur {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents1dpeth_close-DZOHKl {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents1dpeth_close-pUxeV8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents1dpeth_open_selected-0eHxur {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents2dpeth-0eHxur {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents2dpeth-DZOHKl {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents2dpeth-pUxeV8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents2dpeth-TKYQsr {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents2dpeth-Lxc7Tx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents2dpeth-1MtLGz {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents2dpeth-wZgxSA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents2dpeth-B05kS0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents2dpeth-x4G5W5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents2dpeth-Nx1F1Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents2dpeth-14xmnO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents2dpeth-SprIgA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents2dpeth-Z7RCY2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents2dpeth-llMYxu {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents1dpeth_close-TKYQsr {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents1dpeth_close-Lxc7Tx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents1dpeth_close-1MtLGz {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .group-0eHxur {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .empty-x8JZF6 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .empty-eExL1y {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .line-copy-x8JZF6 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-title-reference-0eHxur {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents1dpeth_close-wZgxSA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents1dpeth_close-B05kS0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents1dpeth_close-x4G5W5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents1dpeth_close-Nx1F1Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-contents1dpeth_close-14xmnO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .group-DZOHKl {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .empty-ZDud7q {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .empty-ZKgUCR {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .line-copy-ZDud7q {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-title-reference-DZOHKl {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.basiccomponenttextfieldsinteractionflow .webgnb-4Y2AJn {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsinteractionflow .rectangle-G6CCmn {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsinteractionflow .background-G6CCmn {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsinteractionflow .index-G6CCmn {
+  background-color: transparent;
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-select-aJ5O8C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-unselect-aJ5O8C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.basiccomponenttextfieldsinteractionflow .web-index-unelect_main-G6CCmn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basiccomponenttextfieldsinteractionflow .logo-PdSlxS {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

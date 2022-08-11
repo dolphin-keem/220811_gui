@@ -1,0 +1,311 @@
+/* screen - c2chistory */
+
+.c2chistory {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2chistory .group-tjA7or {
+  background-color: transparent;
+  height: 635px;
+  left: 420px;
+  position: absolute;
+  top: 234px;
+  width: 1400px;
+}
+
+.c2chistory .web-title-area-tjA7or {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2chistory .lnbc2-c-connector_1-tjA7or {
+  background-color: transparent;
+  height: 758px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2chistory .rectangle-h01Y96 {
+  background-color: var(--concrete);
+  height: 758px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2chistory .lnb-h01Y96 {
+  background-color: transparent;
+  height: 758px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2chistory .rectangle-2hdpEY {
+  background-color: var(--concrete);
+  height: 620px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2chistory .stacked-group-2hdpEY {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.c2chistory .web-index-title-common-r5etM6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2chistory .empty-r5etM6 {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2chistory .line-copy-r5etM6 {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 0.2;
+  position: relative;
+  width: 275px;
+}
+
+.c2chistory .empty-9fReDu {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2chistory .web-index-title-reference-r5etM6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.c2chistory .empty-copy-2-r5etM6 {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2chistory .line-copy-2-r5etM6 {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 0.2;
+  position: relative;
+  width: 275px;
+}
+
+.c2chistory .empty-copy-r5etM6 {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2chistory .web-index-title-reference-copy-r5etM6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.c2chistory .web-index-contents1d-r5etM6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2chistory .web-index-contents1d-9fReDu {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2chistory .web-index-contents1d-B2zNcq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2chistory .web-index-contents1dpeth_open_selected-r5etM6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2chistory .web-index-contents1dpeth_close-copy-5-r5etM6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2chistory .web-index-contents1dpeth_close-copy-3-r5etM6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2chistory .web-index-contents1dpeth_close-copy-6-r5etM6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2chistory .web-index-contents1dpeth_close-copy-2-r5etM6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2chistory .line-2hdpEY {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2chistory .home-net-ui-guideline-h01Y96 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.c2chistory .webgnb-tjA7or {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2chistory .rectangle-aEYZ1C {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2chistory .background-aEYZ1C {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2chistory .index-aEYZ1C {
+  background-color: transparent;
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.c2chistory .web-index-select-2m1DfK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.c2chistory .web-index-unselect-2m1DfK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.c2chistory .web-index-unelect_main-aEYZ1C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

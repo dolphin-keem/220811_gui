@@ -1,0 +1,571 @@
+/* screen - basiccomponenttextfieldsautocompletetextfield */
+
+.basiccomponenttextfieldsautocompletetextfield {
+  background-color: var(--white);
+  height: 1503px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-3-s1Wubr {
+  background-color: transparent;
+  height: 1019px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-title-area-s1Wubr {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-tab-basic-component_-graph-s1Wubr {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x3rd-depth-Oe01QU {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .tab-EZxIq6 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .text-fields-SxQGMB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 63px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .auto-complete-text-f-SxQGMB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 153px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .states-copy-SxQGMB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 39px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .interaction-flow-SxQGMB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 101px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .lnb-basic-component-s1Wubr {
+  background-color: transparent;
+  height: 1570px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-KQPpYe {
+  background-color: var(--concrete);
+  height: 1570px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .background-KQPpYe {
+  background-color: var(--concrete);
+  height: 1529px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-08KsTq {
+  background-color: var(--concrete);
+  height: 1529px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .line-KQPpYe {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .home-net-ui-guideline-KQPpYe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .stacked-group-KQPpYe {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 154px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-title-common-9nur1n {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents1dpeth_close-9nur1n {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents1dpeth_close-9DjmMI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents1dpeth_close-iaxxxU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents1dpeth_open_selected-9nur1n {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-9nur1n {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-9DjmMI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-iaxxxU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-hEvx51 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-Hipy1W {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-lH0S9v {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-lxFLmU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-1MR8uE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-UGIheY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-KHI8xR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-vFTcvd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-yx0jvS {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-BleMPv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-xx3V1y {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents1dpeth_close-hEvx51 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents1dpeth_close-Hipy1W {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents1dpeth_close-lH0S9v {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-9nur1n {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .empty-fKfspk {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .empty-3BX4qO {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .line-copy-fKfspk {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-title-reference-9nur1n {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents1dpeth_close-lxFLmU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents1dpeth_close-1MR8uE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents1dpeth_close-UGIheY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents1dpeth_close-KHI8xR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents1dpeth_close-vFTcvd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-9DjmMI {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .empty-Xrs73s {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .empty-F9rWDc {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .line-copy-Xrs73s {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-title-reference-9DjmMI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .webgnb-s1Wubr {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-q1DcgU {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .background-q1DcgU {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .index-q1DcgU {
+  background-color: transparent;
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-select-V1JPov {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-unselect-V1JPov {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-unelect_main-q1DcgU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .logo-YXYc6T {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
